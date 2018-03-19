@@ -7,8 +7,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/pivotal-cf/pg2mysql/mysqlrunner"
-	"github.com/pivotal-cf/pg2mysql/postgresrunner"
+	"github.com/douglas/pg2mysql/mysqlrunner"
+	"github.com/douglas/pg2mysql/postgresrunner"
 
 	"testing"
 )

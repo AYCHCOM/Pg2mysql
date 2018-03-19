@@ -6,8 +6,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/pivotal-cf/pg2mysql"
-	"github.com/pivotal-cf/pg2mysql/pg2mysqlfakes"
+	"github.com/douglas/pg2mysql"
+	"github.com/douglas/pg2mysql/pg2mysqlfakes"
 )
 
 var _ = Describe("Verifier", func() {

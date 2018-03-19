@@ -3,7 +3,7 @@ package commands
 import (
 	"fmt"
 
-	"github.com/pivotal-cf/pg2mysql"
+	"github.com/douglas/pg2mysql"
 )
 
 type ValidateCommand struct{}

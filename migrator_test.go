@@ -6,8 +6,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/douglas/pg2mysql"
-	"github.com/douglas/pg2mysql/pg2mysqlfakes"
+	"github.com/shopify/pg2mysql"
+	"github.com/shopify/pg2mysql/pg2mysqlfakes"
 )
 
 var _ = Describe("Migrator", func() {

@@ -3,7 +3,7 @@ package commands
 import (
 	"fmt"
 
-	"github.com/douglas/pg2mysql"
+	"github.com/shopify/pg2mysql"
 )
 
 type VerifyCommand struct{}
